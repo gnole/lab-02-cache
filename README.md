@@ -143,55 +143,55 @@ investigation:
         input_data:
           buffer_size: 32 kb
         results:
-          duration: 37 ns
+          duration: 22 ns
     - experiment:
         number: 2
         input_data:
           buffer_size: 64 kb
         results:
-          duration: 36 ns
+          duration: 22 ns
     - experiment:
         number: 3
         input_data:
           buffer_size: 128 kb
         results:
-          duration: 36 ns
+          duration: 22 ns
     - experiment:
         number: 4
         input_data:
           buffer_size: 256 kb
         results:
-          duration: 36 ns
+          duration: 22 ns
     - experiment:
         number: 5
         input_data:
           buffer_size: 512 kb
         results:
-          duration: 37 ns
+          duration: 22 ns
     - experiment:
         number: 6
         input_data:
           buffer_size: 1024 kb
         results:
-          duration: 37 ns
+          duration: 26 ns
     - experiment:
         number: 7
         input_data:
           buffer_size: 2048 kb
         results:
-          duration: 36 ns
+          duration: 21 ns
     - experiment:
         number: 8
         input_data:
           buffer_size: 4096 kb
         results:
-          duration: 36 ns
+          duration: 23 ns
     - experiment:
         number: 9
         input_data:
           buffer_size: 8192 kb
         results:
-          duration: 36 ns
+          duration: 20 ns
 investigation:
   travel_order: reverse
   experiments:
@@ -200,55 +200,55 @@ investigation:
         input_data:
           buffer_size: 32 kb
         results:
-          duration: 40 ns
+          duration: 20 ns
     - experiment:
         number: 2
         input_data:
           buffer_size: 64 kb
         results:
-          duration: 39 ns
+          duration: 20 ns
     - experiment:
         number: 3
         input_data:
           buffer_size: 128 kb
         results:
-          duration: 39 ns
+          duration: 20 ns
     - experiment:
         number: 4
         input_data:
           buffer_size: 256 kb
         results:
-          duration: 39 ns
+          duration: 20 ns
     - experiment:
         number: 5
         input_data:
           buffer_size: 512 kb
         results:
-          duration: 38 ns
+          duration: 20 ns
     - experiment:
         number: 6
         input_data:
           buffer_size: 1024 kb
         results:
-          duration: 38 ns
+          duration: 19 ns
     - experiment:
         number: 7
         input_data:
           buffer_size: 2048 kb
         results:
-          duration: 38 ns
+          duration: 19 ns
     - experiment:
         number: 8
         input_data:
           buffer_size: 4096 kb
         results:
-          duration: 38 ns
+          duration: 19 ns
     - experiment:
         number: 9
         input_data:
           buffer_size: 8192 kb
         results:
-          duration: 38 ns
+          duration: 18 ns
 investigation:
   travel_order: random
   experiments:
@@ -257,56 +257,55 @@ investigation:
         input_data:
           buffer_size: 32 kb
         results:
-          duration: 23 ns
+          duration: 17 ns
     - experiment:
         number: 2
         input_data:
           buffer_size: 64 kb
         results:
-          duration: 23 ns
+          duration: 17 ns
     - experiment:
         number: 3
         input_data:
           buffer_size: 128 kb
         results:
-          duration: 23 ns
+          duration: 18 ns
     - experiment:
         number: 4
         input_data:
           buffer_size: 256 kb
         results:
-          duration: 23 ns
+          duration: 18 ns
     - experiment:
         number: 5
         input_data:
           buffer_size: 512 kb
         results:
-          duration: 23 ns
+          duration: 17 ns
     - experiment:
         number: 6
         input_data:
           buffer_size: 1024 kb
         results:
-          duration: 22 ns
+          duration: 17 ns
     - experiment:
         number: 7
         input_data:
           buffer_size: 2048 kb
         results:
-          duration: 23 ns
+          duration: 21 ns
     - experiment:
         number: 8
         input_data:
           buffer_size: 4096 kb
         results:
-          duration: 22 ns
+          duration: 20 ns
     - experiment:
         number: 9
         input_data:
           buffer_size: 8192 kb
         results:
-          duration: 22 ns
-
+          duration: 18 ns
 ```
 
-![график](./images/graf.png)
+![график](https://yequalx.com/chart/line/%D0%97%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BA,straight,reverse,random;32,32,20,17;%2064,22,20,17;128,22,20,18;256,22,20,18;512,22,20,17;%201024,26,19,17;2048,21,19,20;4096,23,19,20;8192,20,18,18#w:800;h:400;c:9e9d24,db4437,4285F4)
