@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 
-const uint64_t bytes_l1_line = 65536;
+const uint64_t bytes_l1_line = 65536*2;
 const uint64_t bytes_l3_line = 9437184;
 
 std::ostream& print_investigation(const std::string& direction,
