@@ -308,4 +308,4 @@ investigation:
           duration: 18 ns
 ```
 
-![график](https://yequalx.com/chart/line/%D0%97%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BA,straight,reverse,random;32,32,20,17;%2064,22,20,17;128,22,20,18;256,22,20,18;512,22,20,17;%201024,26,19,17;2048,21,19,20;4096,23,19,20;8192,20,18,18#w:800;h:400;c:9e9d24,db4437,4285F4)
+![график](./images/graf1.png)
